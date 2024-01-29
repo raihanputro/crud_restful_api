@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "fullname": "Raihan Putro Maulana Rizky",
+      "email": "raihanworks461@gmail.com",
+      "password": "RaihanPutro040601"
+    },
+    {
+      "id": 1,
+      "fullname": "Bambang Nurjaman",
+      "email": "bambanguyeh@gmail.com",
+      "password": "bambang446"
+    },
+    {
+      "id": 2,
+      "fullname": "Hilman",
+      "email": "hilman@gmail.com",
+      "password": "hilman123"
+    },
+    {
+      "id": 3,
+      "fullname": "iqbal",
+      "email": "iqbal@gmail.com",
+      "password": "iqbal123"
+    }
+  ]
+}
